@@ -1,2 +1,5 @@
-# twitch-username-checker
-Username Checker for Twitch
+
+   ``` 
+   git clone https://github.com/yourusername/twitch-username-checker.git
+   cd twitch-username-checker
+   ``` 
