@@ -50,7 +50,7 @@ Ensure you have the following before running the application:
 
    Install the required Python packages using `pip`. Ensure your virtual environment is activated before running this command:
 
-   ``` `pip install -r requirements.txt`
+    `pip install -r requirements.txt`
 
    This will install all necessary packages listed in `requirements.txt`.
 
