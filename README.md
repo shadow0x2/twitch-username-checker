@@ -65,17 +65,6 @@ Ensure you have the following before running the application:
 
    Replace `your_client_id` and `your_client_secret` with your actual Twitch API credentials. These credentials are required to authenticate requests to the Twitch API.
 
-### 5. Directory Structure
-
-   Ensure your project directory follows this structure for proper functionality:
-
-   ```
-   twitch-username-checker/ ├── assets/ │ └── username.txt # File containing usernames to check ├── logs/ │ └── app.log # Log file for application output ├── output/ │ └── available_usernames.txt # File where available usernames are saved ├── .env #        File with Twitch API credentials ├── main.py # Main script to run the application └── requirements.txt # File listing project dependencies
-   ```
-
-This structure ensures that the application can locate configuration files, input files, and save outputs correctly. Make sure to place your username list in the `assets/username.txt` file, and the script will handle the rest.
-
-
 ## Usage
 
 1. **Prepare Usernames File**
